@@ -1,1 +1,1 @@
-![CV](CV.png)
+<div style="text-align:center"><img src="CV.png" /></div>
