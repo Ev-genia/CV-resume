@@ -1,1 +1,1 @@
-![CV](CV (Community).png)
+![CV](CV.png)
